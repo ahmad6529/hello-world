@@ -1,1 +1,4 @@
 # hello-world
+I visit many sites while browsing in my daily life and always curious about how things on website works and how this structure offers different animations, popups, pages, notifications, etc. Even I have seen some layouts who adjust contents and elements dynamically i.e based on the length and width of screen. It is so fascinating for me and I wanted to learn about web site design strategy that how to design a web layout and its different components that make a website appealing and attracts user attention.
+
+From this course, I want to learn the strategy behind designing a web site, the good and bad practices, designing the user interface that works for all devices e.g mobile, laptop, tablet, etc and to be able to design a website myself in the end.
